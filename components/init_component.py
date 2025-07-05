@@ -1,6 +1,7 @@
 import joblib as jl
 import pandas as pd
 import streamlit as st
+
 from components.trajectory import processDataframe
 
 classifier = 'heart_disease_classifier.pkl'
