@@ -24,4 +24,22 @@ Xscaled = σX−μ
 
 Target Class: Heart Disease
 
+## Setup
 
+## Initialize Python Environment
+
+```sh
+python -m venv .venv
+```
+
+## Activiate Environment
+
+```sh
+.venv\Scripts\Activate.bat
+```
+
+## Dependencies
+
+```sh
+pip install streamlit && pip install scikit-learn && pip install joblit
+```
