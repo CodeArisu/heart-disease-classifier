@@ -41,5 +41,5 @@ python -m venv .venv
 ## Dependencies
 
 ```sh
-pip install streamlit && pip install scikit-learn && pip install joblit
+pip install streamlit && pip install scikit-learn && pip install joblib
 ```
